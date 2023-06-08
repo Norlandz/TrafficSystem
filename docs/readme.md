@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>TrafficSystem_Instruction</title>
-<style>
-table, th, td {
-  border: 1px solid;
-}
-table {
-  margin: 1em;
-  border-collapse: collapse;
-  width: -moz-max-content;
-  width: max-content;
-  max-width: 1500px;
-}
-tbody tr:nth-child(even) {
-  background-color: rgba(245, 248, 255, 0.8);
-}
-</style>
-</head>
-<body class="dreamweaverVisualBugTmpFixer slideOmnt ntMs">
 <ul id="id_HihesPanel">
   <li>
     <h3> Introduction </h3>
@@ -222,7 +200,7 @@ tbody tr:nth-child(even) {
             <table>
               <tbody>
                 <tr>
-                  <th scope="col">algorithm</th>
+                  <th scope="col">algorithm (function name)</th>
                   <th scope="col">success rate</th>
                   <th scope="col">time complexity</th>
                   <th scope="col">description</th>
@@ -237,7 +215,7 @@ tbody tr:nth-child(even) {
                   <td>1%</td>
                 </tr>
                 <tr>
-                  <th scope="row">&nbsp;</th>
+                  <th scope="row"><code>get_Points_AtCloserDirection_ByAreaDet</code></th>
                   <td>10%<br class="stpMs manGenBuiltin ntMs"/>
                     only works for simple shapes</td>
                   <td><code>O(1)</code></td>
@@ -245,7 +223,8 @@ tbody tr:nth-child(even) {
                   <td>10%</td>
                 </tr>
                 <tr>
-                  <th scope="row">&nbsp;</th>
+                  <th scope="row"><code>repath_by_WrapVertexSearchAlg<br class="stpMs manGenBuiltin ntMs"/>
+                  _by_PermutationAndIntersection</code></th>
                   <td>100%<br class="stpMs manGenBuiltin ntMs"/>
                     works in all cases<br class="stpMs manGenBuiltin ntMs"/>
                     always finds the  path (unless unreachable pratically)<br class="stpMs manGenBuiltin ntMs"/>
@@ -266,7 +245,8 @@ tbody tr:nth-child(even) {
                   <td>45%</td>
                 </tr>
                 <tr>
-                  <th scope="row">&nbsp;</th>
+                  <th scope="row"><code>repath_by_WrapVertexSearchAlg<br class="stpMs manGenBuiltin ntMs"/>
+                  _by_DirectionalTangentLine_with_ShortestGotoPoint</code></th>
                   <td>70%<br class="stpMs manGenBuiltin ntMs"/>
                     works in many cases<br class="stpMs manGenBuiltin ntMs"/>
                     sometimes fails to find a path (even such path exist pratically)<br class="stpMs manGenBuiltin ntMs"/>
@@ -276,7 +256,8 @@ tbody tr:nth-child(even) {
                   <td>50%</td>
                 </tr>
                 <tr>
-                  <th scope="row">&nbsp;</th>
+                  <th scope="row"><code>repath_by_WrapVertexSearchAlg<br class="stpMs manGenBuiltin ntMs"/>
+                  _by_DirectionalTangentLine_with_Permutation</code></th>
                   <td>95%~100%<br class="stpMs manGenBuiltin ntMs"/>
                     works in most/all cases<br class="stpMs manGenBuiltin ntMs"/>
                     always finds the path (should)<br class="stpMs manGenBuiltin ntMs"/>
@@ -369,5 +350,3 @@ tbody tr:nth-child(even) {
   </li>
   <li> </li>
 </ul>
-</body>
-</html>
