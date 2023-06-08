@@ -26,7 +26,8 @@ https://github.com/Norlandz/TrafficSystem/assets/43581880/76c2a20f-a47d-45bc-955
           <source src="images/TrafficSystem 20230609_004856 demo02_AlignedCube_ComplexMoving_TrafficLight.mp4" type="video/mp4">
         </video>
       </li>
-      <li>(Github md video support is very limited & its breaking the html code)</li>
+      <li>(Github md video support is very limited & its breaking the html code -- a li is added below to fix that)</li>
+  </li>
     </ul>
   </li>
   <li>
