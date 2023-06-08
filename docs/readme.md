@@ -9,13 +9,15 @@
   <li>
     <h3>Overview (graph)</h3>
     <ul>
-      <li><img src="images/TrafficSystem Demo.png" style="max-height: 500px; max-width: 500px;" alt="TrafficSystem Demo"/> </li>
+      <li><img src="images/TrafficSystem Demo.png" height="300px" alt="TrafficSystem Demo"/> </li>
       <li>
+        (Github md is limited to display video -- video is moved to end of file)
         <video controls>
           <source src="images/TrafficSystem 20230609_003641 demo01_CrossBlock_Complex.mp4" type="video/mp4">
         </video>
       </li>
       <li>
+        (Github md is limited to display video -- video is moved to end of file)
         <video controls>
           <source src="images/TrafficSystem 20230609_004856 demo02_AlignedCube_ComplexMoving_TrafficLight.mp4" type="video/mp4">
         </video>
@@ -350,3 +352,9 @@
   </li>
   <li> </li>
 </ul>
+
+
+
+https://raw.githubusercontent.com/Norlandz/TrafficSystem/blob/main/.github/images/TrafficSystem%2020230609_003641%20demo01_CrossBlock_Complex.mp4
+
+https://raw.githubusercontent.com/Norlandz/TrafficSystem/blob/main/.github/images/TrafficSystem%2020230609_004856%20demo02_AlignedCube_ComplexMoving_TrafficLight.mp4
